@@ -71,3 +71,14 @@
       ],
       "stack": "container"
   }
+"buildpacks": [
+  {
+    "url": "https://buildpack-registry.s3.amazonaws.com/buildpacks/heroku/nodejs.tgz"
+  },
+  {
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+  },
+  {
+    "url": "heroku/python"
+  }
+]
