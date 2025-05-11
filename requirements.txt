@@ -1,28 +1,28 @@
-aiofiles>=23.2.1
-aiohttp>=3.9.3
-asyncio  # built-in, version দেওয়া লাগবে না
-beautifulsoup4>=4.12.3
-dnspython>=2.6.1
-ffmpeg-python>=0.2.0
-gitpython>=3.1.42
-hachoir>=3.1.3
-heroku3>=5.3.0
-httpx>=0.27.2  # already latest
-motor>=3.3.2
-pillow>=10.3.0
-psutil>=5.9.8
-py-tgcalls==3.0.0.dev24  # dev version, latest-ই ধরব
-pykeyboard>=0.2.4
-pyrofork  # this is a custom fork; version check GitHub-based if needed
-python-dotenv>=1.0.1
-pyyaml>=6.0.1
-requests>=2.31.0
-speedtest-cli>=2.1.3
-spotipy>=2.23.0
-tgcrypto>=1.2.5
-unidecode>=1.3.8
-yt-dlp>=2024.04.09
-youtube-search>=2.1.2
-youtube-search-python>=1.6.6
-youtube_dl>=2021.12.17
-pymongo>=4.6.3
+aiofiles
+aiohttp
+asyncio
+beautifulsoup4
+dnspython==2.2.1
+ffmpeg-python
+gitpython
+hachoir
+heroku3
+httpx==0.27.2
+motor
+pillow
+psutil
+py-tgcalls==3.0.0.dev24
+pykeyboard
+pyrofork
+python-dotenv
+pyyaml
+requests
+speedtest-cli
+spotipy
+tgcrypto
+unidecode
+yt-dlp
+youtube-search
+youtube-search-python
+youtube_dl
+pymongo==4.3.2
