@@ -2,7 +2,7 @@ aiofiles
 aiohttp
 asyncio
 beautifulsoup4
-dnspython==2.2.1
+dnspython
 ffmpeg-python
 gitpython
 hachoir
@@ -11,7 +11,7 @@ httpx==0.27.2
 motor
 pillow
 psutil
-py-tgcalls==3.0.0.dev24
+py-tgcalls==0.9.7
 pykeyboard
 pyrofork
 python-dotenv
@@ -24,5 +24,3 @@ unidecode
 yt-dlp
 youtube-search
 youtube-search-python
-youtube_dl
-pymongo==4.3.2
