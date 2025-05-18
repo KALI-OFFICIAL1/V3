@@ -11,7 +11,7 @@ API_ID = int(getenv("API_ID","21546320"))
 API_HASH = getenv("API_HASH","c16805d6f2393d35e7c49527daa317c7")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN","7593985219:AAHbnhEmU48VYlOkTu7iLSwUka3vKKxiZN0")
+BOT_TOKEN = getenv("BOT_TOKEN","7593985219:")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://AOMusic:AOMusic@cluster0.sibxiqk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
@@ -40,7 +40,7 @@ GIT_TOKEN = getenv(
 )  # Fill this variable if your upstream repository is private
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SANKINETWORK")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+QPSshOWJThczMWU1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/silent_era")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @StringFatherBot on Telegram
-STRING1 = getenv("STRING_SESSION", "BQG0OpUAP8uckSBU6dQZKMzyin-0bT4Myadub-7tXDcipuiLGTWc7GmXOCQnjlweUeQSAwXzpVhTaaHptCOSFo35WI6Cbx_jkW0wWjTnwBy_5YfJneVhnQE8AA9l0VtApJ3z4mPNjeENgX_dhzMcdSH7lrtUjYCl0Gam669AQvye8Zb2gD0g3omnQQ7PCxVQypqOPAAUBfSoyhi-6o0Dz7jmBJWtzGwvlfg2JeHqjSF4CyDMoNseI0ubPL_-KDVJ1rngFWi3rBipXGXIojohAouUVlZVOZskpvyDKEwyD4S3EyV9i-I1qJ_s6xH-wPXn0gLkXUVw4LIeP_I-KbP9qK6NylHDwgAAAAGbzo9oAA")
+STRING1 = getenv("STRING_SESSION", "BQG0OpUAP8uckSBU6dQZKMzyin-0bT4MyadubKDVJ1rngFWi3rBipXGXIojohAouUVlZVOZskpvyDKEwyD4S3EyV9i-I1qJ_s6xH-wPXn0gLkXUVw4LIeP_I-KbP9qK6NylHDwgAAAAGbzo9oAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
